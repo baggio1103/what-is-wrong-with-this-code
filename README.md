@@ -9,11 +9,10 @@ and errors arise under certain conditions.
 The ultimate goal to improve the overall troubleshooting skills and write a more scalable and reliable code.
 
 The task is get familiar with the code, think about 'What is wrong with the provided code'
-and come up with solutions that can deal with all the requirements of the API under different
-all conditions / test cases. 
+and come up with solutions that can deal with all the requirements of the API under different conditions / test cases. 
 
 Besides, for each such application, there will a separate dedicated branch that 
-highlights the problems of that application, the errors that arise and I will try to provide
+highlights the problems of that application, the errors that arise and I will try to
 provide with my own views how to handle all these errors.
 ````
 -----
