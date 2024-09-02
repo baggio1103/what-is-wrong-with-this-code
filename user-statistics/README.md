@@ -1,7 +1,7 @@
 ## UserStatistics
 ![User statistics Spring boot service](https://raw.githubusercontent.com/baggio1103/what-is-wrong-with-this-code/master/assets/Spring%20Boot%2C%20Flyway%2C%20and%20PostgreSQL%20with%20Kotlin.%20The%20banner%20should%20have%20a%20modern%20and%20vibrant%20.webp)
-[UserStatistics](https://github.com/baggio1103/what-is-wrong-with-this-code/tree/master/user-statistics) is a web application written using SpringBoot, PostgreSQL, Flyway, Spring Data JPA,
-that has two provides two endpoints:
+**[UserStatistics](https://github.com/baggio1103/what-is-wrong-with-this-code/tree/master/user-statistics)** is a web application written using SpringBoot, PostgreSQL, Flyway and Spring Data JPA
+that has two endpoints:
 
 ````
 - /posts - returns a list of all the posts.
